@@ -1,1 +1,2 @@
 # Custom_Function_Generator
+This project implements a basic analog function generator that can produce a square, triangle, and sine wave for general purposes.  This design is implemented in three main stages. For the first stage, the design implements an op amp in the configuration of an oscillator to generate a square wave. This square is then driven into the next two stages which are integrators that convert the square wave into triangle, and sine waves.
